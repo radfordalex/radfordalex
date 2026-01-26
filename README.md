@@ -16,7 +16,7 @@ I turn complex data into production-ready models and actionable insights. My exp
 
 ## Tech Stack
 
-**Languages:** Python, SQL, R
+**Languages:** Python, SQL, R  
 **Cloud:** GCP (BigQuery, Vertex AI), AWS, Azure  
 **ML/AI:** Agentic AI, LLMs, Embeddings, Scikit-learn, TensorFlow  
 **Search & Data:** Elasticsearch, Pandas, dbt, Git
