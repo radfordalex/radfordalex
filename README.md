@@ -4,7 +4,7 @@ Data Scientist building ML/AI systems that drive real business impact. Passionat
 
 ## What I Do
 
-I turn complex data into production-ready models and actionable insights. My experience spans customer analytics, product data optimization, and enterprise-scale ML systems—working with structured, unstructured, and multimodal data across industry and academic research.
+I turn complex data into production-ready models and actionable insights. My experience spans customer analytics, product data optimization, and enterprise-scale ML systems - working with structured, unstructured, and multimodal data across industry and academic research.
 
 **Areas of focus:**
 - Agentic AI & autonomous systems
