@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-Data Scientist building ML/AI systems that drive real business impact. Passionate about agentic AI and its enterprise applications—currently co-developing graduate coursework on the subject.
+Data Scientist building ML/AI systems that drive real business impact. Passionate about agentic AI and its enterprise applications - currently co-developing graduate coursework on the subject.
 
 ## What I Do
 
@@ -35,6 +35,6 @@ I turn complex data into production-ready models and actionable insights. My exp
 
 ---
 
-*Most of my recent work lives in private enterprise repositories—public projects coming soon.*
+*Most of my recent work lives in private enterprise repositories - public projects coming soon.*
 
 *Open to collaborating on interesting data science, ML, and AI projects.*
