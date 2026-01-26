@@ -23,7 +23,7 @@ I turn complex data into production-ready models and actionable insights. My exp
 
 ## Currently
 
-- 🎓 Final semester of my Master's in Data Science (graduating May 2026)
+- 🎓 Final semester of MS in Data Science (graduating May 2026)
 - 📚 Co-developing graduate coursework on Agentic AI
 - 🤖 Exploring enterprise applications of AI agents and autonomous systems
 - 🏃 Training for triathlons and marathons when not writing code
