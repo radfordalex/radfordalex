@@ -1,4 +1,4 @@
-# Hi, I'm Alex 👋
+# Greetings, my fellow nerds
 
 Data Scientist building ML/AI systems that drive real business impact. Passionate about agentic AI and its enterprise applications - currently co-developing graduate coursework on the subject.
 
@@ -23,10 +23,10 @@ I turn complex data into production-ready models and actionable insights. My exp
 
 ## Currently
 
-- 🎓 Final semester of MS in Data Science (graduating May 2026)
-- 📚 Co-developing graduate coursework on Agentic AI
-- 🤖 Exploring enterprise applications of AI agents and autonomous systems
-- 🏃 Training for triathlons and marathons when not writing code
+- Final semester of MS in Data Science (graduating May 2026)
+- Co-developing graduate coursework on Agentic AI
+- Exploring enterprise applications of AI agents and autonomous systems
+- Training for triathlons and marathons when not writing code
 
 ## Let's Connect
 
