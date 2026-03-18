@@ -1,4 +1,4 @@
-# Greetings, fellow overthinkers
+# Greetings, fellow overthinkers 🫡
 
 Data Scientist at MSC Industrial Supply, wrapping up my MS in Data Science at UNC Charlotte (May 2026). I build production ML systems — recommendation engines, search relevance, customer segmentation — and lately I've been deep in the agentic AI rabbit hole.
 
@@ -9,6 +9,7 @@ I'm also co-developing a graduate course on Agentic AI, which mostly means I get
 **Languages:** Python, SQL, R  
 **Cloud:** GCP (Vertex AI, BigQuery ML), AWS, Azure  
 **AI/ML:** [LangGraph](https://github.com/radfordalex/langgraph-research-assistant), [CrewAI](https://github.com/radfordalex/crewai-research-assistant), TensorFlow, Scikit-learn, LLMs, Embeddings
+
 **Data Engineering:** PySpark, Docker, Snowflake, Git
 
 ## What I Care About
@@ -19,8 +20,8 @@ Lately I've been deep in the world where embeddings and LLMs meet traditional ML
 
 ## Right Now
 
-- Graduating in May 2026, actively looking for what's next
-- Building multi-agent systems using both graph-based (LangGraph) and role-based (CrewAI) frameworks (check the repos)
+- Graduating in May 2026
+- Building multi-agent systems using both graph-based (LangGraph) and role-based (CrewAI) frameworks (check the repos linked above)
 - Training for my first triathlon because apparently training models wasn't enough suffering
 
 ## Let's Talk
