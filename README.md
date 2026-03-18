@@ -6,38 +6,27 @@ I'm also co-developing a graduate course on Agentic AI, which mostly means I get
 
 ## What I'm Working With
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![BigQuery ML](https://img.shields.io/badge/BigQuery_ML-669DF6?style=flat&logo=googlebigquery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=flat)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+**Languages:** Python, SQL, R  
+**Cloud:** GCP (Vertex AI, BigQuery ML), AWS, Azure  
+**AI/ML:** [LangGraph](https://github.com/radfordalex/langgraph-research-assistant), [CrewAI](https://github.com/radfordalex/crewai-research-assistant), TensorFlow, Scikit-learn, LLMs, Embeddings
+**Data Engineering:** PySpark, Docker, Snowflake, Git
 
 ## What I Care About
 
-Figuring out how to make AI agents actually useful in enterprise settings (not just cool demos). Most of my day-to-day involves structured and unstructured data at scale (clickstream, product catalogs, customer behavior) and turning that into models that ship.
+Figuring out how to make AI agents actually useful in enterprise settings (not just cool demos). Most of my day-to-day involves structured and unstructured data at scale — clickstream, product catalogs, customer behavior — and turning that into models that ship.
+
+Lately I've been deep in the world where embeddings and LLMs meet traditional ML. Think semantic search, recommendations that actually understand context, and agentic workflows as pieces of bigger pipelines instead of just chatbots.
 
 ## Right Now
 
 - Graduating in May 2026, actively looking for what's next
-- Building multi-agent systems in both LangGraph and CrewAI (check the repos)
-- Collaborating with NASA JPL on NinerKnows, a research project at UNCC
+- Building multi-agent systems using both graph-based (LangGraph) and role-based (CrewAI) frameworks (check the repos)
 - Training for my first triathlon because apparently training models wasn't enough suffering
 
 ## Let's Talk
 
 <a href="https://linkedin.com/in/alexjamesradford"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:aradfor6@charlotte.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:radfordalex46@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ---
 
