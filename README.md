@@ -18,8 +18,8 @@ I turn complex data into production-ready models and actionable insights. My exp
 
 **Languages:** Python, SQL, R  
 **Cloud:** GCP (BigQuery, Vertex AI), AWS, Azure  
-**ML/AI:** Agentic AI, LLMs, Embeddings, Scikit-learn, TensorFlow  
-**Search & Data:** Elasticsearch, Pandas, dbt, Git
+**AI/ML:** Agentic AI, LLMs, Embeddings, Scikit-learn, TensorFlow  
+**Data Engineering:** dbt, Multi-signal LTR Frameworks
 
 ## Currently
 
@@ -27,6 +27,18 @@ I turn complex data into production-ready models and actionable insights. My exp
 - Co-developing graduate coursework on Agentic AI
 - Exploring enterprise applications of AI agents and autonomous systems
 - Training for triathlons and marathons when not writing code
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 
 ## Let's Connect
 
