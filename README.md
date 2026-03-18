@@ -1,15 +1,14 @@
 # Greetings, fellow overthinkers 🫡
 
-Data Scientist at MSC Industrial Supply, wrapping up my MS in Data Science at UNC Charlotte (May 2026). I build production ML systems — recommendation engines, search relevance, customer segmentation — and lately I've been deep in the agentic AI rabbit hole.
+I'm Alex 🤝 I've spent the last 3 years building production AI/ML systems at MSC Industrial Supply (recommendation engines, search relevance, customer segmentation & churn) while chipping away at my MS in Data Science at UNC Charlotte. Lately I've been deep in the agentic AI rabbit hole.
 
-I'm also co-developing a graduate course on Agentic AI, which mostly means I get to nerd out about autonomous systems and call it work.
+I'm also one of the two developers for a graduate course on Agentic AI, which mostly means I get to nerd out about autonomous systems and call it work.
 
 ## What I'm Working With
 
 **Languages:** Python, SQL, R  
 **Cloud:** GCP (Vertex AI, BigQuery ML), AWS, Azure  
-**AI/ML:** [LangGraph](https://github.com/radfordalex/langgraph-research-assistant), [CrewAI](https://github.com/radfordalex/crewai-research-assistant), TensorFlow, Scikit-learn, LLMs, Embeddings
-
+**AI/ML:** [LangGraph](https://github.com/radfordalex/langgraph-research-assistant), [CrewAI](https://github.com/radfordalex/crewai-research-assistant), TensorFlow, Scikit-learn, LLMs, Embeddings  
 **Data Engineering:** PySpark, Docker, Snowflake, Git
 
 ## What I Care About
@@ -30,5 +29,6 @@ Lately I've been deep in the world where embeddings and LLMs meet traditional ML
 <a href="mailto:radfordalex46@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ---
-
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=radfordalex&show_icons=true&theme=dark&hide_border=true&hide=stars)
+---
 *Most of my production work lives in private repos. The public stuff here is what I'm building on my own time.*
