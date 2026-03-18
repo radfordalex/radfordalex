@@ -22,7 +22,7 @@ At the end of the day I want to build things that actually help people. Right no
 ## Right Now
 
 - Wrapping up my MS after 4 years of balancing it with full-time work - graduating May 2026
-- Building multi-agent systems using both graph-based ([LangGraph](https://github.com/radfordalex/langgraph-research-assistant)) and role-based ([CrewAI](https://github.com/radfordalex/crewai-research-assistant)) frameworks (check the repos linked above)
+- Building multi-agent systems using both graph-based ([LangGraph](https://github.com/radfordalex/langgraph-research-assistant)) and role-based ([CrewAI](https://github.com/radfordalex/crewai-research-assistant)) frameworks
 - Training for my first triathlon because apparently training models wasn't enough suffering
 - Open to collaborating on interesting ML/AI projects
 
