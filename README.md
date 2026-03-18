@@ -29,6 +29,4 @@ Lately I've been deep in the world where embeddings and LLMs meet traditional ML
 <a href="mailto:radfordalex46@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ---
-![](https://komarev.com/ghpvc/?username=radfordalex&color=blue&style=flat)
----
 *Most of my production work lives in private repos. The public stuff here is what I'm building on my own time.*
