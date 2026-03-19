@@ -1,6 +1,6 @@
 # Greetings, fellow overthinkers 🫡
 
-I'm Alex 🤝 I've spent the last 3 years building production AI/ML systems at MSC Industrial Supply (recommendation engines, search relevance, customer segmentation & churn) while chipping away at my MS in Data Science at UNC Charlotte. Lately I've been deep in the agentic AI rabbit hole.
+I'm Alex 🤝 I've spent the last 3 years building production AI/ML systems at MSC Industrial Supply (recommendation engines, search relevance, customer segmentation & churn) while chipping away at my MS in Data Science at UNC Charlotte. Lately I've been deep in the Agentic AI rabbit hole.
 
 I'm also one of the two developers for a graduate course on Agentic AI, which mostly means I get to nerd out about autonomous systems and call it work.
 
