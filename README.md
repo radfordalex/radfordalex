@@ -1,7 +1,9 @@
 # Greetings, fellow overthinkers 🫡
 
 > Data Scientist · AI/ML Engineer · MSC Industrial Supply ($4.7B industrial distributor)
+
 > MS Data Science — UNC Charlotte (2026)
+
 > Building UNC Charlotte's graduate course on Agentic AI
 
 ## What I'm Working With
