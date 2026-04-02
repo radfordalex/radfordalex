@@ -1,15 +1,13 @@
 # Greetings, fellow overthinkers 🫡
 
-> Data Scientist · AI/ML Engineer · MSC Industrial Supply ($4.7B industrial distributor)
-> MS Data Science — UNC Charlotte (2026)
-> Building UNC Charlotte's graduate course on Agentic AI
+Hi - I'm Alex! I've spent the last 3 years building production AI/ML systems at MSC Industrial Supply (recommendation engines, search relevance, customer segmentation & churn) while completing my MS in Data Science at UNC Charlotte. I'm also one of two developers for an Agentic AI graduate course at UNC Charlotte which mostly means I get to nerd out about autonomous systems and call it work.
 
 ## What I'm Working With
 
-> **Languages:** Python, SQL, R  
-> **Cloud:** GCP (Vertex AI, BigQuery ML), AWS, Azure  
-> **AI/ML:** LangGraph, CrewAI, TensorFlow, Scikit-learn, LLMs, Embeddings  
-> **Data Engineering:** PySpark, Docker, Snowflake, Git
+**Languages:** Python, SQL, R  
+**Cloud:** GCP (Vertex AI, BigQuery ML), AWS, Azure  
+**AI/ML:** LangGraph, CrewAI, TensorFlow, Scikit-learn, LLMs, Embeddings  
+**Data Engineering:** PySpark, Docker, Snowflake, Git
 
 ## What I Care About
 
@@ -21,10 +19,10 @@ At the end of the day I want to build things that actually help people. Right no
 
 ## Right Now
 
-> Wrapping up my MS after 4 years of balancing it with full-time work - graduating May 2026
-> Building multi-agent systems using both graph-based ([LangGraph](https://github.com/radfordalex/agentic-ai-weekly)) and role-based ([CrewAI](https://github.com/radfordalex/crewai-research-assistant)) frameworks
-> Training for my first triathlon because apparently training models wasn't enough suffering
-> Open to collaborating on interesting ML/AI projects
+- Wrapping up my MS after 4 years of balancing it with full-time work - graduating May 2026
+- Building multi-agent systems using both graph-based ([LangGraph](https://github.com/radfordalex/agentic-ai-weekly)) and role-based ([CrewAI](https://github.com/radfordalex/crewai-research-assistant)) frameworks
+- Training for my first triathlon because apparently training models wasn't enough suffering
+- Open to collaborating on interesting ML/AI projects
 
 ## Let's Talk
 
