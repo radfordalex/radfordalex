@@ -8,10 +8,10 @@
 
 ## What I'm Working With
 
-**Languages:** Python, SQL, R  
-**Cloud:** GCP (Vertex AI, BigQuery ML), AWS, Azure  
-**AI/ML:** LangGraph, CrewAI, TensorFlow, Scikit-learn, LLMs, Embeddings  
-**Data Engineering:** PySpark, Docker, Snowflake, Git
+> **Languages:** Python, SQL, R  
+> **Cloud:** GCP (Vertex AI, BigQuery ML), AWS, Azure  
+> **AI/ML:** LangGraph, CrewAI, TensorFlow, Scikit-learn, LLMs, Embeddings  
+> **Data Engineering:** PySpark, Docker, Snowflake, Git
 
 ## What I Care About
 
