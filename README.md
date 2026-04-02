@@ -1,6 +1,8 @@
 # Greetings, fellow overthinkers 🫡
 
-Hi - I'm Alex! I've spent the last 3 years building production AI/ML systems at MSC Industrial Supply (recommendation engines, search relevance, customer segmentation & churn) while completing my MS in Data Science at UNC Charlotte. I'm also one of two developers for an Agentic AI graduate course at UNC Charlotte which mostly means I get to nerd out about autonomous systems and call it work.
+Hi - I'm Alex! I've spent the last 3 years building production AI/ML systems at MSC Industrial Supply (recommendation engines, search relevance, customer segmentation & churn) while completing my MS in Data Science at UNC Charlotte.
+
+I'm also one of two developers for an Agentic AI graduate course at UNC Charlotte which mostly means I get to nerd out about autonomous systems and call it work.
 
 ## What I'm Working With
 
